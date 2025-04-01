@@ -1,0 +1,6 @@
+@NewsRecommender_HostAddress = http://localhost:5112
+
+GET {{NewsRecommender_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

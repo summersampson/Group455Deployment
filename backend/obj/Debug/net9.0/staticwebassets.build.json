@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3xZwSuLbNJXeqoPuyso1nIdzURGc3klM3MLxrz9ryhA=",
+  "Source": "NewsRecommender",
+  "BasePath": "_content/NewsRecommender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
