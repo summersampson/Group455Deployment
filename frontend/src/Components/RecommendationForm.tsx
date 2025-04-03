@@ -7,7 +7,7 @@ interface Recommendations {
 }
 
 function RecommendationForm() {
-  const [userId, setUserId] = useState("");
+  const [contentId, setContentId] = useState("");
   const [recommendations, setRecommendations] =
     useState<Recommendations | null>(null);
 
@@ -17,7 +17,7 @@ function RecommendationForm() {
     const res = await fetch("http://localhost:5000/api/recommendations", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ userId }),
+      body: JSON.stringify({ contentId }),
     });
 
     const data = await res.json();
@@ -30,9 +30,9 @@ function RecommendationForm() {
       <form onSubmit={handleSubmit}>
         <input
           type="text"
-          value={userId}
-          onChange={(e) => setUserId(e.target.value)}
-          placeholder="Enter User ID"
+          value={contentId}
+          onChange={(e) => setContentId(e.target.value)}
+          placeholder="Enter contentId"
           required
         />
         <button type="submit">Get Recommendations</button>
@@ -40,7 +40,7 @@ function RecommendationForm() {
 
       {recommendations && (
         <div>
-          <h2>Recommendations for {userId}</h2>
+          <h2>Recommendations for {contentId}</h2>
 
           <h3>Collaborative Filtering</h3>
           <ul>

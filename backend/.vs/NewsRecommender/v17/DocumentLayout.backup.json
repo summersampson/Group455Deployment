@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\trey\\source\\repos\\group455deployment\\backend\\controller\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:controller\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\trey\\source\\repos\\group455deployment\\backend\\services\\collaborativefilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:services\\collaborativefilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\trey\\source\\repos\\group455deployment\\backend\\models\\collaborativefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:models\\collaborativefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Controller\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "Controller\\RecommendationController.cs",
+              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Controller\\RecommendationController.cs",
+              "RelativeToolTip": "Controller\\RecommendationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:09:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollaborativeFilterService.cs",
+              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Services\\CollaborativeFilterService.cs",
+              "RelativeDocumentMoniker": "Services\\CollaborativeFilterService.cs",
+              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Services\\CollaborativeFilterService.cs",
+              "RelativeToolTip": "Services\\CollaborativeFilterService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:57:56.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollaborativeFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Models\\CollaborativeFilter.cs",
+              "RelativeDocumentMoniker": "Models\\CollaborativeFilter.cs",
+              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Models\\CollaborativeFilter.cs",
+              "RelativeToolTip": "Models\\CollaborativeFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:48:55.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

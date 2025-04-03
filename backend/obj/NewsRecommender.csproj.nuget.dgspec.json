@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\summe\\OneDrive\\Desktop\\Group455Deployment\\backend\\NewsRecommender.csproj": {}
+    "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\NewsRecommender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\summe\\OneDrive\\Desktop\\Group455Deployment\\backend\\NewsRecommender.csproj": {
+    "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\NewsRecommender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\summe\\OneDrive\\Desktop\\Group455Deployment\\backend\\NewsRecommender.csproj",
+        "projectUniqueName": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\NewsRecommender.csproj",
         "projectName": "NewsRecommender",
-        "projectPath": "C:\\Users\\summe\\OneDrive\\Desktop\\Group455Deployment\\backend\\NewsRecommender.csproj",
-        "packagesPath": "C:\\Users\\summe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\summe\\OneDrive\\Desktop\\Group455Deployment\\backend\\obj\\",
+        "projectPath": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\NewsRecommender.csproj",
+        "packagesPath": "C:\\Users\\Trey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\summe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Trey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"

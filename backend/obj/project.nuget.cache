@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KdBfNInLfAo=",
+  "dgSpecHash": "aIyc0Kt/T9U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\summe\\OneDrive\\Desktop\\Group455Deployment\\backend\\NewsRecommender.csproj",
+  "projectFilePath": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\NewsRecommender.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\summe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
-    "C:\\Users\\summe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Trey\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Trey\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Trey\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }
