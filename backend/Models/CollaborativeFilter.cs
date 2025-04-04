@@ -3,6 +3,6 @@
     public class CollaborativeFilter
     {
         public long ContentId { get; set; }
-        public List<string> RecommendedTitles { get; set; } = new();
+        public List<long> RecommendedIds { get; set; } = new();
     }
 }

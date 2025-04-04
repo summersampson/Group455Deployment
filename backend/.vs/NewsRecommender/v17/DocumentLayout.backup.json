@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\trey\\source\\repos\\group455deployment\\backend\\controller\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\ainsl\\desktop\\group455deployment\\backend\\controller\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:controller\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\trey\\source\\repos\\group455deployment\\backend\\services\\collaborativefilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\ainsl\\desktop\\group455deployment\\backend\\services\\collaborativefilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:services\\collaborativefilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\trey\\source\\repos\\group455deployment\\backend\\models\\collaborativefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\ainsl\\desktop\\group455deployment\\backend\\data\\content_similarity_matrix.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:data\\content_similarity_matrix.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\ainsl\\desktop\\group455deployment\\backend\\data\\collaborative_filtering.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:data\\collaborative_filtering.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\ainsl\\desktop\\group455deployment\\backend\\models\\collaborativefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:models\\collaborativefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\ainsl\\desktop\\group455deployment\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|c:\\users\\ainsl\\desktop\\group455deployment\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCA788F-2EC4-43D9-83D6-932DF9AB6451}|NewsRecommender.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,46 +41,94 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RecommendationController.cs",
-              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Controller\\RecommendationController.cs",
-              "RelativeDocumentMoniker": "Controller\\RecommendationController.cs",
-              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Controller\\RecommendationController.cs",
-              "RelativeToolTip": "Controller\\RecommendationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:09:56.599Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CollaborativeFilterService.cs",
-              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Services\\CollaborativeFilterService.cs",
+              "DocumentMoniker": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Services\\CollaborativeFilterService.cs",
               "RelativeDocumentMoniker": "Services\\CollaborativeFilterService.cs",
-              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Services\\CollaborativeFilterService.cs",
+              "ToolTip": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Services\\CollaborativeFilterService.cs",
               "RelativeToolTip": "Services\\CollaborativeFilterService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T18:57:56.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Controller\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "Controller\\RecommendationController.cs",
+              "ToolTip": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Controller\\RecommendationController.cs",
+              "RelativeToolTip": "Controller\\RecommendationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:09:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "content_similarity_matrix.csv",
+              "DocumentMoniker": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Data\\content_similarity_matrix.csv",
+              "RelativeDocumentMoniker": "Data\\content_similarity_matrix.csv",
+              "ToolTip": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Data\\content_similarity_matrix.csv",
+              "RelativeToolTip": "Data\\content_similarity_matrix.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T15:08:46.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "collaborative_filtering.csv",
+              "DocumentMoniker": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Data\\collaborative_filtering.csv",
+              "RelativeDocumentMoniker": "Data\\collaborative_filtering.csv",
+              "ToolTip": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Data\\collaborative_filtering.csv",
+              "RelativeToolTip": "Data\\collaborative_filtering.csv",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T14:55:08.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CollaborativeFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Models\\CollaborativeFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Models\\CollaborativeFilter.cs",
               "RelativeDocumentMoniker": "Models\\CollaborativeFilter.cs",
-              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Group455Deployment\\backend\\Models\\CollaborativeFilter.cs",
+              "ToolTip": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Models\\CollaborativeFilter.cs",
               "RelativeToolTip": "Models\\CollaborativeFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T18:48:55.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T14:44:32.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ainsl\\Desktop\\Group455Deployment\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:43:46.57Z",
               "EditorCaption": ""
             }
           ]

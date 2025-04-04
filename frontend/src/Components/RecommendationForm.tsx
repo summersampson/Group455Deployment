@@ -1,8 +1,8 @@
 import { useState, FormEvent } from "react";
 
 interface Recommendations {
-  collaborative: number[];
-  content: number[];
+  collaborative: string[];
+  content: string[];
   azure: number[];
 }
 
@@ -14,7 +14,7 @@ function RecommendationForm() {
   const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
 
-    const res = await fetch("http://localhost:5000/api/recommendations", {
+    const res = await fetch("http://localhost:5112/api/recommendations", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ contentId }),
@@ -44,15 +44,15 @@ function RecommendationForm() {
 
           <h3>Collaborative Filtering</h3>
           <ul>
-            {recommendations.collaborative.map((id) => (
-              <li key={id}>{id}</li>
+            {recommendations.collaborative.map((title, i) => (
+              <li key={i}>{title}</li>
             ))}
           </ul>
 
           <h3>Content-Based Filtering</h3>
           <ul>
-            {recommendations.content.map((id) => (
-              <li key={id}>{id}</li>
+            {recommendations.content.map((id, i) => (
+              <li key={i}>{id}</li>
             ))}
           </ul>
 
